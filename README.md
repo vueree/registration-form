@@ -1,4 +1,4 @@
-# Registration App
+# Registration Form
 
 Этот проект представляет собой SPA-приложение на Vue 3 с использованием Vite, Pinia и Vue Router. Для управления зависимостями используется **Yarn** (версия 4.7.0).
 
@@ -31,7 +31,7 @@ yarn preview
 
 📁 Структура проекта
 
-📂 registration
+📂 registration-form
 ├── 📂 src
 │   ├── 📂 components  # Компоненты приложения
 │   ├── 📂 router      # Файлы маршрутизации
